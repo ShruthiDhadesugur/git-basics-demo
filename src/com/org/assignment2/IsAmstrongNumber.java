@@ -17,3 +17,4 @@ public class IsAmstrongNumber {
   return false;
   }
 }
+
